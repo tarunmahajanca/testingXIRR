@@ -1,0 +1,6 @@
+{
+  "name": "XIRR Calculator",
+  "description": "Calculate Portfolio Manager XIRR, benchmark identical cashflows against the Nifty 50 Total Return Index (TRI), measure Alpha, and model beginning-of-year management fees.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
